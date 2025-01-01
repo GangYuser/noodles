@@ -5,4 +5,5 @@ public static void main(String[] args) {
     b = a*2;
 
     System.out.println(b);
+    System.out.println(a);
 }
